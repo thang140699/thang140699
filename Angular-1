@@ -6,4 +6,3 @@
 <span *ngIf="age <18 "> Bạn dưới 18 tuổi </span>
 <br/>
 <span>Bạn trên 18 tuổi </span>
-
