@@ -1,0 +1,9 @@
+<h1>Hello</h1>
+<span class="myfisrtcss">
+<h3>Chào Bạn {{ name }}</h3>
+<h2>Bẫn ĐÃ {{ age }} tuổi</h2>
+</span>
+<span *ngIf="age <18 "> Bạn dưới 18 tuổi </span>
+<br/>
+<span>Bạn trên 18 tuổi </span>
+
