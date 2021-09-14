@@ -6,3 +6,6 @@
 <span *ngIf="age <18 "> Bạn dưới 18 tuổi </span>
 <br/>
 <span>Bạn trên 18 tuổi </span>
+
+
+// nó ghi lỗi này ạ  Operator '<' cannot be applied to types 'string' and 'number'.ngtsc(2365) 
